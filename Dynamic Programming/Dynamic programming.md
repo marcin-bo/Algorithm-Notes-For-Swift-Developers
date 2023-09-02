@@ -373,7 +373,7 @@ In general:<br/>
 `f(n) = f(n-1) + f(n-3) + f(n-5)`
 
 Implementation:
-```
+```swift
 // Time Complexity: `O(3^n)`
 // Space Complexity : `O(n)` (the recursion call stack)
 
@@ -392,7 +392,7 @@ func f(_ n: Int) -> Int {
 
 4. **Do tabulation or memorization.**
 
-```
+```swift
 // Initialize an array with -1 values
 var memo = Array(repeating: -1, count: MAXN)
 
