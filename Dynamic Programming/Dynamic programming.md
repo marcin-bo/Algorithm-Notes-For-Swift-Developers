@@ -2,6 +2,7 @@
 # Table of contents
 
 1. [Dynamic Programming](#dp)
+    1. [Optimization Problem](#dp_optimization)
     1. [Overlapping Subproblems Property](#dp_property_1)
     1. [Optimal Substructure Property](#dp_property_2)
 1. [Example: Determining the Nth Fibonacci Number](#example_fib)
@@ -37,6 +38,14 @@
         - If the optimal solution of the given problem can be obtained by using optimal solutions of its subproblems.
         - Most of the classic DP problems satisfy that property.
 - DP solves some particular type of problems in Polynomial Time `O(n^k)`.
+
+## Optimization Problem <a name="dp_optimization"></a>
+
+- **Optimization Problem** is the problem of finding the best solution from all feasible solutions.
+- There are 3 approaches to solve Optimization Problems:
+    - Greedy Method
+    - Dynamic Programming
+    - Branch and Bound
 
 ## Overlapping Subproblems Property <a name="dp_property_1"></a>
 
