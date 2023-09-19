@@ -1,5 +1,8 @@
+# Dynamic Programming for Swift Developers
 
-# Table of contents
+This article provides Swift developers with insights into the powerful Dynamic Programming technique, a versatile approach to tackling coding challenges effectively.
+
+# Table of Contents
 
 1. [Dynamic Programming](#dp)
     1. [Optimization Problem](#dp_optimization)
