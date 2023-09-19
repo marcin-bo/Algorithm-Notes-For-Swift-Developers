@@ -2,7 +2,8 @@
 
 Welcome! 👋
 
-This is a guide to algorithms for Swift developers.
+The purpose of this GitHub repository is to become a valuable resource for Swift developers by providing a curated collection of powerful algorithms essential for effectively tackling coding challenges.
+
 I also encourage contributions from the iOS developer community to turn this repository into a collaborative hub for sharing knowledge.
 
 # Table of Contents
