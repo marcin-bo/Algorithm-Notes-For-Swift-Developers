@@ -443,13 +443,13 @@ func solve(_ n: Int) -> Int {
 
 # References <a name="references"></a>
 
-- https://interviewing.io/dynamic-programming-interview-questions
-- https://www.programiz.com/dsa/dynamic-programming
-- https://www.geeksforgeeks.org/solve-dynamic-programming-problem/
-- https://www.geeksforgeeks.org/overlapping-subproblems-property-in-dynamic-programming-dp-1/
-- https://www.geeksforgeeks.org/tabulation-vs-memoization/
-- https://www.geeksforgeeks.org/what-is-memoization-a-complete-tutorial/
-- https://www.enjoyalgorithms.com/blog/top-down-memoization-vs-bottom-up-tabulation
-- https://stackoverflow.com/questions/6164629/what-is-the-difference-between-bottom-up-and-top-down
-- https://labuladong.gitbook.io/algo-en/i.-dynamic-programming
-- https://www.baeldung.com/cs/tabulation-vs-memoization
+- [Dynamic Programming Interview Questions & Tips by interviewing.io](https://interviewing.io/dynamic-programming-interview-questions)
+- [Dynamic Programming by programiz.com](https://www.programiz.com/dsa/dynamic-programming)
+- [Steps for how to solve a Dynamic Programming Problem by geeksforgeeks.org](https://www.geeksforgeeks.org/solve-dynamic-programming-problem/)
+- [Overlapping Subproblems Property in Dynamic Programming by geeksforgeeks.org](https://www.geeksforgeeks.org/overlapping-subproblems-property-in-dynamic-programming-dp-1/)
+- [Tabulation vs Memoization by geeksforgeeks.org](https://www.geeksforgeeks.org/tabulation-vs-memoization/)
+- [What is memoization? A Complete tutorial by geeksforgeeks.org](https://www.geeksforgeeks.org/what-is-memoization-a-complete-tutorial/)
+- [Top-down vs Bottom-up approach in Dynamic Programming by enjoyalgorithms.com](https://www.enjoyalgorithms.com/blog/top-down-memoization-vs-bottom-up-tabulation)
+- [What is the difference between bottom-up and top-down? stackoverflow.com](https://stackoverflow.com/questions/6164629/what-is-the-difference-between-bottom-up-and-top-down)
+- [Dynamic Programming in Details by labuladong](https://labuladong.gitbook.io/algo-en/i.-dynamic-programming/analysisofdynamicprogramming)
+- [Tabulation vs. Memoization by baeldung.com](https://www./cs/tabulation-vs-memoization)
