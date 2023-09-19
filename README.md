@@ -1,4 +1,4 @@
-# Algorithms Notes In Swift
+# Algorithms Notes for Swift Developers
 
 Welcome! 👋
 
