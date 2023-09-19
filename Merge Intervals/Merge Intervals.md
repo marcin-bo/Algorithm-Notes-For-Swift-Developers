@@ -6,7 +6,7 @@ This article provides Swift developers with insights into effectively applying t
 
 1. [Merge Intervals Technique](#merge_intervals_technique)
 1. [Swift Helper Functions for Solving Merge Intervals Problems](#helpers)
-1. [Example - Merge Intervals Sorting](#example)
+1. [Example: Merge Intervals Sorting](#example)
 1. [References](#references)
 
 # Merge Intervals Technique <a name="merge_intervals_technique"></a>
@@ -93,7 +93,7 @@ extension Array where Element == Int {
 }
 ```
 
-# Example - Merge Intervals Sorting <a name="example"></a>
+# Example: Merge Intervals Sorting <a name="example"></a>
 
 [LeetCode - 56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
